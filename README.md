@@ -1,4 +1,4 @@
-# pa7 : Dictionary ADT
+# Dictionary ADT
 
 ## Files:
 
